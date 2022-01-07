@@ -3,7 +3,7 @@ layout: post
 title: How I built my first website
 subtitle: Thanks to TEA tutorial!
 categories: Website
-tags: [GitHub, website]
+tags: [GitHub, website, TEA, Tech Expert Academy]
 ---
 
 ## How I built my website
