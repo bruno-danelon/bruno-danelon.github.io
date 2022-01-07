@@ -6,4 +6,4 @@ categories: Website
 tags: [GitHub, website, TEA, techexpertacademy]
 ---
 
-Just following this great tutorial by Tech Expert Academy: [Create your own amazing website: 100% free!](https://www.youtube.com/watch?v=TRIys0HLJuU)
+[Create your own amazing website: 100% free!](https://www.youtube.com/watch?v=TRIys0HLJuU) by Tech Expert Academy
