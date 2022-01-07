@@ -37,9 +37,9 @@ author: Bruno
 # * sound recording copyright: (p) - ℗
 #
 # For example:
-#   "Copyright (c) 2022-{currentYear} <a href="https://example.com">{author}</a>"
+#   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Born in Argentina. Worked at various private and public institutions. Now, I'm helping to build a first-class academy for tech professionals.
